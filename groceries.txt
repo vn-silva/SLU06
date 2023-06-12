@@ -1,6 +1,4 @@
-Bananas
+banana
 Eggs
 Bread
-
-
-
+Beans
